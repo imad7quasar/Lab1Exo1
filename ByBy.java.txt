@@ -1,0 +1,11 @@
+public class ByBy
+{
+ public static void main (String[] args)
+{
+
+    System.out.println("ByBY! ") ; 
+ System.out.println("DONT Stay safe ! ") ; 
+
+}
+
+}
